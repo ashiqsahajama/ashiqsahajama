@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Improving myself<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Software Engineering <br>🌱 I’m currently learning ReactJS<br>⚡ Fun fact that is I am trying to do leetcode everyday 😂⚡️<br>[Coding Profile](https://leetcode.com/u/itaintme/)<br>
+🔭 I’m currently working on Improving myself<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for full time SDE <br>🌱 I’m currently learning ReactJS<br>⚡ Fun fact that is I am trying to do leetcode everyday 😂⚡️<br>[Coding Profile](https://leetcode.com/u/itaintme/)<br>
 
 
 ## 🌐 Socials:
